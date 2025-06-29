@@ -1,5 +1,3 @@
-# googledriveclone-app
-
 # backendgoogledriveclone-app
 
 # Available Scripts
